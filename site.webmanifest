@@ -1,0 +1,16 @@
+{
+  "name": "Relavo — AI Tokenized Deposit Router",
+  "short_name": "Relavo",
+  "description": "Your Deposits Follow the Best Terms. Automated rate switching on regulated rails.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08181b",
+  "theme_color": "#08181b",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
